@@ -13,7 +13,7 @@ A Company owner wants to analyse their attrition rate in his company. Show creat
 ### Dashboard Overview
 ![image](https://github.com/sarvesh230/HR_Analysis_Power_BI/assets/64326792/071b7c63-c3ba-4abe-a98a-e7ba16620cb9)
 
-
+https://github.com/sarvesh230/HR_Analysis_Power_BI/assets/64326792/570747ba-f999-4d34-8d77-49e2c6fd2367
 
 ### Project Learnings:
 . Identified key factors to reduce attrition.
